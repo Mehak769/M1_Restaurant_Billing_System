@@ -1,18 +1,3 @@
-* Table
-  
-|  Sr No.  |           Title             |     Page No.      |
-|:---------:|:----------------------------:|:------------------:|
-| 1 |   Introduction  | 1 |
-| 2 |   Requirements | 3 |
-|   |   (i) High Level Requirements |   |
-|   |   (ii) Low Level Requirements  |   |
-| 3 |   SWOT Analysis  | 3 |
-| 4 |   4 W's and 1H   | 4 |          
-
-
-
-
-
 
  # 1.    Introduction  :  
  This is a Restaurant Billing System Project. It takes various inputs from user like names, items, quantity, etc. And, this calculates bill amount with tax calculations as well and then produce a bill which can be provided to the customer. It also uses file handling to store the data of all previous bills and also has the ability to search for a customer's old bill by using their name. This system generates much faster bills as compared to other.
