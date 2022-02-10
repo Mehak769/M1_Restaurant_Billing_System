@@ -5,7 +5,7 @@
 ![Screenshot (19)](https://user-images.githubusercontent.com/63239130/152693846-a2462cd1-813e-41ff-b335-417b07e38a03.png)
 
 ## HACKEREARTH SCREENSHOTS
-![Screenshot (20)](https://user-images.githubusercontent.com/63239130/152693857-7afb147a-a86c-4212-94bd-727d185696a9.png)
+![hackerearth 1000 points](https://user-images.githubusercontent.com/63239130/153464449-910876f2-b898-4746-9f7e-9de5c3195bc8.png)
 
 
 ## GITHUB SCREENSHOT
