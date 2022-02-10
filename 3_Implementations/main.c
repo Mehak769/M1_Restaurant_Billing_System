@@ -10,12 +10,12 @@
 
 
 
-
+// this is main function
 
 
 int main()
 {
-
+// start of main
     float total;
     int opt, n, invoiceFound = 0;
     struct orders ord;
@@ -35,11 +35,11 @@ int main()
     scanf("%d", &opt);
     fgetc(stdin);
 
-    switch (opt)
+    switch (opt) // using switch case choose option
     {
     case 1:
         system("cls");
-        printf("\nPlease enter the name of the customer:\t");
+        printf("\nPlease enter the name of the customer:\t"); // adding customer names and items
         fgets(ord.customer, 50, stdin);
         ord.customer[strlen(ord.customer - 1)] = 0;
         strcpy(ord.date, __DATE__);
@@ -86,7 +86,7 @@ int main()
     case 2:
         system("cls");
         fp = fopen("RestaurantBill.dat", "r");
-        printf("\n ******Your Previous Invoices******\n");
+        printf("\n ******Your Previous Invoices******\n"); // finding customers previous bills
         while (fread(&order, sizeof(struct orders), 1, fp))
         {
             float tot = 0;
@@ -105,7 +105,7 @@ int main()
         }
 
     case 3:
-        printf("\nEnter the name of the customer:\t");
+        printf("\nEnter the name of the customer:\t"); //generating previous bills by their names
         // fgetc(stdin);
         fgets(name, 50, stdin);
         name[strlen(name) - 1] = 0;
@@ -137,5 +137,5 @@ int main()
 
     printf("\n\n");
 
-    return 0;
+    return 0; // end of main
 }
