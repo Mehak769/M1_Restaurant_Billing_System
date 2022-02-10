@@ -11,11 +11,8 @@ This is a Restaurant Billing System Project. It takes various inputs from user l
 # Table:
 * Table
   
-|  Sr No.  |   Test Case  |  Input Values  |  Expected output  |  Actual Cases  |     |
+|  Sr No.  |   Test Case  |  Input Values  |  Expected output  |  Actual Cases  |     
 |:--------:|:------------:|:--------------:|:-----------------:|:--------------:|
-| 1 |   Introduction  | 1 |
-| 2 |   Requirements | 3 |
-|   |   (i) High Level Requirements |   |
-|   |   (ii) Low Level Requirements  |   |
-| 3 |   SWOT Analysis  | 3 |
-| 4 |   4 W's and 1H   | 4 |    
+|1.| Added customer names and items |Generating bills|123|123|
+|2.| Finding customers previous bills |Generating bills|123|123|
+|3.| Generating previous bills by their names | Generating bills|123|123|
