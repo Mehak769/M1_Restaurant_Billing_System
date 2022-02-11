@@ -1,3 +1,28 @@
+# M1_Restaurant_Billing_System
+
+# Content
+
+* Introduction
+* Aim 
+* Scope
+
+
+
+# Introduction
+
+This is a Restaurant Billing System Project. It takes various inputs from user like names, items, quantity, etc. And, this calculates bill amount with tax calculations as well and then produce a bill which can be provided to the customer. It also uses file handling to store the data of all previous bills and also has the ability to search for a customer's old bill by using their name. This system generates much faster bills as compared to other.
+
+# Aim 
+Easy for people to order food, and also manages all the information about food and also track the previous bills.
+
+# Scope
+
+It specifies user requirements.
+
+
+
+
+
 # Dynamic Check:
 
 ## Code quality - Codiga:
