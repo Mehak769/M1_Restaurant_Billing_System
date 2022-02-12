@@ -1,4 +1,4 @@
-
+#include"billing.c";
 
 
 
@@ -41,7 +41,7 @@ int main()
         system("cls");
         printf("\nPlease enter the name of the customer:\t"); // adding customer names and items
         fgets(ord.customer, 50, stdin);
-        ord.customer[strlen(ord.customer - 1)] = 0;
+        // ord.customer[strlen(ord.customer - 1)] = 0;
         strcpy(ord.date, __DATE__);
         1;
         printf("Please enter the number of items:\t");

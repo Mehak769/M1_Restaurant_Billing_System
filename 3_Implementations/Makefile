@@ -1,12 +1,11 @@
-
-output: main.o billing.output
-    gcc main.o billing.o -o output
+output: main.o billing.o
+	g++ main.o billing.o -o output
 
 main.o: main.c
-	 gcc -c main.c
+	g++ -c main.c
 
 billing.o: billing.c billing.h
-     gcc -c billing.c
+	g++ -c billing.c
 
 clean:
-    rm *.o output	 
+	rm *.o output
