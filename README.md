@@ -12,6 +12,19 @@
 
 This is a Restaurant Billing System Project. It takes various inputs from user like names, items, quantity, etc. And, this calculates bill amount with tax calculations as well and then produce a bill which can be provided to the customer. It also uses file handling to store the data of all previous bills and also has the ability to search for a customer's old bill by using their name. This system generates much faster bills as compared to other.
 
+
+## Badges
+
+
+
+
+| codacy | codiga |
+|:------:|:-----:|
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/bb6d15b058224f26a2acd4e72e0ce91b)](https://www.codacy.com/gh/Mehak769/M1_Restaurant_Billing_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mehak769/M1_Restaurant_Billing_System&amp;utm_campaign=Badge_Grade) | ![icode grade](https://api.codiga.io/project/30934/score/svg)  ![icode grade](https://api.codiga.io/project/30934/status/svg) |
+
+
+
 # Aim 
 Easy for people to order food, and also manages all the information about food and also track the previous bills.
 
