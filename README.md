@@ -18,9 +18,9 @@ This is a Restaurant Billing System Project. It takes various inputs from user l
 
 
 
-|  codacy  |  codiga  |  Workflow  |  CPP_check  |
-|:--------:|:--------:|:----------:|:-----------:|
-| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bb6d15b058224f26a2acd4e72e0ce91b)](https://www.codacy.com/gh/Mehak769/M1_Restaurant_Billing_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mehak769/M1_Restaurant_Billing_System&amp;utm_campaign=Badge_Grade) | ![icode grade](https://api.codiga.io/project/30934/score/svg)  ![icode grade](https://api.codiga.io/project/30934/status/svg) | [![Manual workflow](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/manual.yml/badge.svg)](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/manual.yml) | [![C/C++ CI](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/c-cpp.yml) |
+|  codacy  |  codiga  |  Workflow  |  CPP_check  |  Unit Testing  |
+|:--------:|:--------:|:----------:|:-----------:|:--------------:|
+| [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bb6d15b058224f26a2acd4e72e0ce91b)](https://www.codacy.com/gh/Mehak769/M1_Restaurant_Billing_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mehak769/M1_Restaurant_Billing_System&amp;utm_campaign=Badge_Grade) | ![icode grade](https://api.codiga.io/project/30934/score/svg)  ![icode grade](https://api.codiga.io/project/30934/status/svg) | [![Manual workflow](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/manual.yml/badge.svg)](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/manual.yml) | [![C/C++ CI](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/c-cpp.yml) | [![UnitTesting](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/Mehak769/M1_Restaurant_Billing_System/actions/workflows/c-cpp1.yml) |
 
 
 
