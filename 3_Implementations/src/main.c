@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author your name (Mehak@domain.com)
+ * @author Mehak (mehak1815719@gmail.com)
  * @brief Restaurant_Billing_System 
  * @version 0.1
  * @date 2022-02-20
